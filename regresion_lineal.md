@@ -12,6 +12,6 @@ La regresión lineal es un método estadístico utilizado para modelar la relaci
 
 En resumen, la regresión lineal es efectiva para análisis y predicciones en contextos donde se espera una relación lineal, pero no es adecuada para situaciones más complejas o con datos que no cumplen sus supuestos.
 
-![regresion lineal]([URL_de_la_imagen](https://github.com/gameandnight/SAA/blob/main/assets/images.png))
+![regresion lineal](https://github.com/gameandnight/SAA/blob/main/assets/images.png)
 
 
